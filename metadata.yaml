@@ -1,11 +1,16 @@
 _repo: The-Dearest-Things-in-Boots_53425
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 53425-h/images/cover.jpg
 creator:
   author:
     agent_name: MacKenzie, Edna I.
     gutenberg_agent_id: '46895'
     url: http://www.gutenberg.org/2009/agents/46895
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/53425#The-Dearest-Things-in-Boots
 gutenberg_issued: '2016-11-01'
 gutenberg_type: Text
 identifiers:
